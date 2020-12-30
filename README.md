@@ -1,2 +1,1 @@
-# ebskz.github.io
-EBS website in production
+Hello world blyat!
